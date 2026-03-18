@@ -3,6 +3,23 @@ Displays UK University Hackathons that happened in the 2024/2025 calendar and on
 Also Displays Winners of UK University Hackathons from 2024 and onwards.
 Would be smarter to make a global university Hackathon tracker, but that's in the future. Not now though
 
+## Why do people win?
+
+There are many reasons as to why people win. I will list my reasons below:
+
+- Unique, BEST USE OF.
+- The Judges haven't seen it before
+- Luck! Judges really love your project and they probably did a spin the wheel to suggest what they actually want in the end
+- really well thought out codebase before
+- it is a business product (i know rono's team made something that was sold to a defense startup company... crazy.)
+- it is a product that can change peoples lives
+- it's a **creative** project you enjoyed making
+- Brainstorming correctly
+- Reading the devpost winners, seeing what they did and how you could implement it into your future projects.
+- READING THE DEVPOST PROJECT WINNERS. Maybe they've seen the project once, and then you're remaking it in the future, unintentionally? rip
+- You're one of the first few teams to be judged so that you don't run out of energy and you're lucky enough to actually have them at full steam.
+- you're really good at yapping and yapping proficiently
+
 ## UK University hackathons that happened in the 24/25 calendar:
 
 ### Spring Semester (23/24 calendar.. lol)

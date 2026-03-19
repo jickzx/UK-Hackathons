@@ -140,6 +140,8 @@ Winners:
 - [fraser street](https://devpost.com/software/fraser-street)
     - used [triposr](https://github.com/VAST-AI-Research/TripoSR). you input an image and it creates a 3d image. v smart
 
+- [hardware](https://devpost.com/software/etch-a-sketch-as-a-service) that i don't understand
+
 ### WHACK 2025
 
 ### DurHack X

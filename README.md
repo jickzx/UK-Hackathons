@@ -126,6 +126,9 @@ then so far:
 ### Bath Hack 2025
 
 ### HackNotts '25
+https://hacknotts-25.devpost.com/
+
+making minecraft from haskell is insane btw
 
 https://devpost.com/software/paladins-of-pi
 

@@ -136,6 +136,7 @@ Winners:
 
 - [2 phd students](https://devpost.com/software/chronomancer) won this so we had no change in the first place... tbh this was insanely tuff and cold (and the phd guy lives in the big B. fairs)
     - i even realised the song is "creep" but in a high pitched voice lmao
+    - developed in rust, frontend in gamemaker
 - [fraser street](https://devpost.com/software/fraser-street)
     - used [triposr](https://github.com/VAST-AI-Research/TripoSR). you input an image and it creates a 3d image. v smart
 

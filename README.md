@@ -25,12 +25,12 @@ There are many reasons as to why people win. I will list my reasons below:
 if we count that uon gamejam...
 then so far:
 
-- an ai chatbot that ran through raspberry pi (hn25, boring)
+- [an ai chatbot that ran through raspberry pi (hn25, boring)](https://devpost.com/software/placeholder-text)
 - a snowball stacking game (uon gamejam 25)
 - a failed house market valuation predictor from 5-10 years (ucl realtech hackathon. would've won that if we learnt git lfs ffs)
 - digital twin that used a time series analysis of a 7 day backtest in the east midlands, allowing the user to place down simulated versions of data centres and wind farms to prevent/see what could happen in 10 years in the future, with gemini producing a generated report of an efficiency chart without buzzwords. **all to make it sustainable lol** (hacklondon '26. yeah i totally did something (i really didnt ffs i wish i did but i had massive brainfog))
-- gatwick (hacksussex '26)
-- created a minecraft mod that switched biomes depending on what music genre you played. last.fm synced the lyrics while gemini altered the lyrics to make it minecrafty (sotonhack '26, their first GLOBAL hackathon! yay)
+- [gatwick (hacksussex '26)](https://devpost.com/software/placeholder-text)
+- [created a minecraft mod that switched biomes depending on what music genre you played. last.fm synced the lyrics while gemini altered the lyrics to make it minecrafty (sotonhack '26, their first GLOBAL hackathon! yay)](https://devpost.com/software/idk-flvcx7)
 - who knows what i'll make for the uon medtech society...
 
 ## UK University hackathons that happened in the 24/25 calendar:
@@ -127,6 +127,10 @@ then so far:
 
 ### HackNotts '25
 
+https://devpost.com/software/paladins-of-pi
+
+
+
 ### WHACK 2025
 
 ### DurHack X
@@ -140,6 +144,7 @@ then so far:
 ### AstonHack 11
 
 ### HackLondon 26
+https://hacklondon-2026.devpost.com/project-gallery
 
 winners:
 

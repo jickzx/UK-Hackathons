@@ -63,7 +63,7 @@ There are many reasons as to why people win. I will list my reasons below:
 
 ### Spring Semester
 
-- IC Hack 26 - Imperial College London - 31 Jan - 1 Feb 2026
+- IC Hack 26 - Imperial College London - 31 Jan - 1 Feb 2026: i know that haashims team won, they won using this disaster relief thing
 - AstonHack 11 - 7-8 Feb 2026
 - HackLondon 26 - 21-22 Feb 2026
 - HackSussex 26 - 28 Feb - 1 March 2026

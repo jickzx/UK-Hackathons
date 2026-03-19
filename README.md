@@ -81,8 +81,13 @@ then so far:
 - HackLondon 26 - 21-22 Feb 2026
 - HackSussex 26 - 28 Feb - 1 March 2026
 - DUWiT Hacks - 7-8 March 2026
-- SotonHack 26 - 14-15 March 2026 - winners: STICK IT TOGETHER (wiki races on a firestick which is crazy.)
+- [SotonHack 26](#sotonhack) - 14-15 March 2026 - winners: STICK IT TOGETHER (wiki races on a firestick which is crazy.)
 - BirmingHack 26 - 14-15 March 2026
 - BioHackathon - 20-22 March 2026
 - KentHackIt - 21-22 March 2026 (probably delayed because of meningitis outbreak)
 - BathHacks - 27-28 March 2026 (Available to University of Bath Students only)
+
+### sotonhack
+
+
+does this even work?

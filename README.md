@@ -134,9 +134,10 @@ https://devpost.com/software/paladins-of-pi
 
 Winners:
 
-- [2 phd students](https://devpost.com/software/chronomancer) won this so we had no change in the first place...
+- [2 phd students](https://devpost.com/software/chronomancer) won this so we had no change in the first place... tbh this was insanely tuff and cold (and the phd guy lives in the big B. fairs)
     - i even realised the song is "creep" but in a high pitched voice lmao
-
+- [fraser street](https://devpost.com/software/fraser-street)
+    - used [triposr](https://github.com/VAST-AI-Research/TripoSR). you input an image and it creates a 3d image. v smart
 
 ### WHACK 2025
 
@@ -156,6 +157,10 @@ https://hacklondon-2026.devpost.com/project-gallery
 winners:
 
 - [GRID](https://devpost.com/software/grid-38zo0l) (holy glaze): Societies Track (sustainable 10 years from now
+    - used time series analysis
+    - used cesium's api to create a 3d satellite view of the map
+    - used gemini to create a generalised report
+    - i learnt more about why apis are important and why .gitignore is also important
 - [Pocket Desk UniBuddy](https://devpost.com/software/pocket-desktop-unibuddy): Hackiest Hack
 - [RFID gamified scanner for universities](https://devpost.com/software/sharkbyte-8v5m1c): Hardware Track
 

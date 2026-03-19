@@ -132,6 +132,9 @@ making minecraft from haskell is insane btw
 
 https://devpost.com/software/paladins-of-pi
 
+Winners:
+
+- [2 phd students](https://devpost.com/software/chronomancer) won this so we had no change in the first place...
 
 
 ### WHACK 2025

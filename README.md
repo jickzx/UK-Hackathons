@@ -20,7 +20,7 @@ There are many reasons as to why people win. I will list my reasons below:
 - You're one of the first few teams to be judged so that you don't run out of energy and you're lucky enough to actually have them at full steam.
 - you're really good at yapping and yapping proficiently
 
-i wanna win more hackathons so hopefully i would've went to 20 hackathons by the end of 2nd year (if i have the time) <!-- if you're seeing this then im ngl i have this one teammate that i go to hackathons with and i remember my other teammate winning in sotonhack for best meme prize and he sounded so pissed because that teammate won and not him (the prize was individual, not a team) and honestly i don't think i can work with people like him. so far i've been to a few hackathons with him but i feel like he just brings the team down simply because of his negativity and his toxicity. i cant accept that and i won't honestly -->
+i wanna win more hackathons so hopefully i would've went to 20 hackathons by the end of 2nd year (if i have the time) <!-- if you're seeing this then im ngl i have this one teammate (lets call him y) that i go to hackathons with and i remember my other teammate winning in sotonhack for best meme prize and y sounded so pissed because that teammate won and not him (the prize was individual, not a team) and honestly i don't think i can work with people like him. so far i've been to a few hackathons with him but i feel like he just brings the team down simply because of his negativity and his toxicity. i cant accept that and i won't honestly -->
 
 ## What have I made?
 

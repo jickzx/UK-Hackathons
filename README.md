@@ -68,7 +68,7 @@ There are many reasons as to why people win. I will list my reasons below:
 - HackLondon 26 - 21-22 Feb 2026
 - HackSussex 26 - 28 Feb - 1 March 2026
 - DUWiT Hacks - 7-8 March 2026
-- SotonHack 26 - 14-15 March 2026
+- SotonHack 26 - 14-15 March 2026 - winners: STICK IT TOGETHER
 - BirmingHack 26 - 14-15 March 2026
 - BioHackathon - 20-22 March 2026
 - KentHackIt - 21-22 March 2026

@@ -145,7 +145,7 @@ winners:
 
 - [GRID](https://devpost.com/software/grid-38zo0l) (holy glaze): Societies Track (sustainable 10 years from now
 - [Pocket Desk UniBuddy](https://devpost.com/software/pocket-desktop-unibuddy): Hackiest Hack
-
+- [RFID gamified scanner for universities](https://devpost.com/software/sharkbyte-8v5m1c): Hardware Track
 
 ### HackSussex 26
 

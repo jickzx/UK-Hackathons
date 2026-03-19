@@ -182,5 +182,6 @@ does this even work?
 ### BioHackathon
 
 ### KentHackIt
+- if you're seeing this, you have meningitis.
 
 ### BathHacks

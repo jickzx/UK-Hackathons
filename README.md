@@ -71,5 +71,5 @@ There are many reasons as to why people win. I will list my reasons below:
 - SotonHack 26 - 14-15 March 2026 - winners: STICK IT TOGETHER
 - BirmingHack 26 - 14-15 March 2026
 - BioHackathon - 20-22 March 2026
-- KentHackIt - 21-22 March 2026
+- KentHackIt - 21-22 March 2026 (probably delayed because of meningitis outbreak)
 - BathHacks - 27-28 March 2026 (Available to University of Bath Students only)

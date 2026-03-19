@@ -20,6 +20,19 @@ There are many reasons as to why people win. I will list my reasons below:
 - You're one of the first few teams to be judged so that you don't run out of energy and you're lucky enough to actually have them at full steam.
 - you're really good at yapping and yapping proficiently
 
+## What have I made?
+
+if we count that uon gamejam...
+then so far:
+
+- an ai chatbot that ran through raspberry pi (hn25, boring)
+- a snowball stacking game (uon gamejam 25)
+- a failed house market valuation predictor from 5-10 years (ucl realtech hackathon. would've won that if we learnt git lfs ffs)
+- digital twin that used a time series analysis of a 7 day backtest in the east midlands, allowing the user to place down simulated versions of data centres and wind farms to prevent/see what could happen in 10 years in the future, with gemini producing a generated report of an efficiency chart without buzzwords. **all to make it sustainable lol** (hacklondon '26. yeah i totally did something (i really didnt ffs i wish i did but i had massive brainfog))
+- gatwick (hacksussex '26)
+- created a minecraft mod that switched biomes depending on what music genre you played. last.fm synced the lyrics while gemini altered the lyrics to make it minecrafty (sotonhack '26, their first GLOBAL hackathon! yay)
+
+
 ## UK University hackathons that happened in the 24/25 calendar:
 
 ### Spring Semester (23/24 calendar.. lol)

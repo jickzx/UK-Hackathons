@@ -55,7 +55,7 @@ There are many reasons as to why people win. I will list my reasons below:
 
 ### Autumn Semester
 
-- HackNotts ’25 — University of Nottingham HackSoc — 25–26 Oct 2025.
+- HackNotts ’25 — University of Nottingham HackSoc — 25–26 Oct 2025. - winners were 2 phd students that used a time-series analysis thing to play a game
 - WHACK 2025 — University of Warwick — 18–19 Oct 2025.
 - DurHack X — Durham University — 1–2 Nov 2025.
 - GreatUniHack 2025 — University of Manchester organization page / Manchester student hackathon — 7–9 Nov 2025.

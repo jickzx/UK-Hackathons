@@ -179,6 +179,11 @@ does this even work?
 
 ### BirmingHack 26
 
+https://birminghack2.devpost.com/project-gallery
+
+
+- [veritas](https://devpost.com/software/veritas-68vkc1), they won 1st place
+    - i need to learn rust
 ### BioHackathon
 
 ### KentHackIt

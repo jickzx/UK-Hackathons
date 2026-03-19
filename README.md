@@ -31,7 +31,7 @@ then so far:
 - digital twin that used a time series analysis of a 7 day backtest in the east midlands, allowing the user to place down simulated versions of data centres and wind farms to prevent/see what could happen in 10 years in the future, with gemini producing a generated report of an efficiency chart without buzzwords. **all to make it sustainable lol** (hacklondon '26. yeah i totally did something (i really didnt ffs i wish i did but i had massive brainfog))
 - gatwick (hacksussex '26)
 - created a minecraft mod that switched biomes depending on what music genre you played. last.fm synced the lyrics while gemini altered the lyrics to make it minecrafty (sotonhack '26, their first GLOBAL hackathon! yay)
-
+- who knows what i'll make for the uon medtech society...
 
 ## UK University hackathons that happened in the 24/25 calendar:
 

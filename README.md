@@ -135,6 +135,7 @@ https://devpost.com/software/paladins-of-pi
 Winners:
 
 - [2 phd students](https://devpost.com/software/chronomancer) won this so we had no change in the first place...
+    - i even realised the song is "creep" but in a high pitched voice lmao
 
 
 ### WHACK 2025

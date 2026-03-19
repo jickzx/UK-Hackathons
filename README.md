@@ -141,6 +141,11 @@ then so far:
 
 ### HackLondon 26
 
+winners:
+
+- [GRID](https://devpost.com/software/grid-38zo0l) (holy glaze): Societies Track (sustainable 10 years from now)
+
+
 ### HackSussex 26
 
 ### DUWiT Hacks

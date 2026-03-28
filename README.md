@@ -1,7 +1,11 @@
 # UK-Hackathons
 Displays UK University Hackathons that happened in the 2024/2025 calendar and onwards
 Also Displays Winners of UK University Hackathons from 2024 and onwards.
-Would be smarter to make a global university Hackathon tracker, but that's in the future. Not now though
+Would be smarter to make a global university Hackathon tracker.
+
+A smart way of implementing a hackathon tracker is by making sure we can find their website and their linkedin profiles, maybe instagram too.
+the reason for this is because this says uk-hackathons yet only points to the uk university hackathons. as i am writing this, i have done 7 hackathons,
+technically won 4. in reality i've won 2, but the larp must stay on point. if i am not larping then who am i?
 
 ## Why do people win?
 

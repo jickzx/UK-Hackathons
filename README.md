@@ -39,6 +39,7 @@ then so far:
 - [gatwick (hacksussex '26)](https://devpost.com/software/placeholder-text)
 - [created a minecraft mod](https://devpost.com/software/idk-flvcx7) that switched biomes depending on what music genre you played. last.fm synced the lyrics while gemini altered the lyrics to make it minecrafty (sotonhack '26, their first GLOBAL hackathon! yay)
 - a physiotracker! came 2nd place in the medtech hackathon hosted by uon
+- "StreamAI" - Won Gradium's track & 2nd place in the Google Deepmind Track
 
 ## UK University hackathons that happened in the 24/25 calendar:
 

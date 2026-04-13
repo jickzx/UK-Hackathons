@@ -38,8 +38,8 @@ then so far:
 - [digital twin](https://devpost.com/software/grid-38zo0l) that used a time series analysis of a 7 day backtest in the east midlands, allowing the user to place down simulated versions of data centres and wind farms to prevent/see what could happen in 10 years in the future, with gemini producing a generated report of an efficiency chart without buzzwords. **all to make it sustainable lol** (hacklondon '26. yeah i totally did something (i really didnt ffs i wish i did but i had massive brainfog))
 - [gatwick (hacksussex '26)](https://devpost.com/software/placeholder-text)
 - [created a minecraft mod](https://devpost.com/software/idk-flvcx7) that switched biomes depending on what music genre you played. last.fm synced the lyrics while gemini altered the lyrics to make it minecrafty (sotonhack '26, their first GLOBAL hackathon! yay)
-- a physiotracker! came 2nd place in the medtech hackathon hosted by uon
-- "StreamAI" - Won Gradium's track & 2nd place in the Google Deepmind Track
+- PhysioTrack. came 2nd place in the medtech hackathon hosted by uon
+- "Stream Mind" - Came 2nd Overall, 2nd In Google Deepmind's track, 1st in Gradium's track
 
 ## UK University hackathons that happened in the 24/25 calendar:
 

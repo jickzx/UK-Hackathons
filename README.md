@@ -196,3 +196,7 @@ https://birminghack2.devpost.com/project-gallery
 - if you're seeing this, you have meningitis.
 
 ### BathHacks
+
+### HackBelfast
+
+- lowkey won this so i have to include this. probably means i need to change this to uk-ie

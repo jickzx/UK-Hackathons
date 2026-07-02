@@ -167,7 +167,7 @@ https://hacklondon-2026.devpost.com/project-gallery
 
 winners:
 
-- [GRID](https://devpost.com/software/grid-38zo0l) (holy glaze): Societies Track (sustainable 10 years from now
+- [GRID](https://devpost.com/software/grid-38zo0l) (holy glaze): Societies Track (sustainable 10 years from now)
     - used time series analysis
     - used cesium's api to create a 3d satellite view of the map
     - used gemini to create a generalised report
@@ -176,6 +176,8 @@ winners:
 - [RFID gamified scanner for universities](https://devpost.com/software/sharkbyte-8v5m1c): Hardware Track
 
 ### HackSussex 26
+
+No idea who won but it was an interesting one. food was nice though but paid quite a lot to get here so.. eeeh
 
 ### DUWiT Hacks
 
@@ -193,10 +195,13 @@ https://birminghack2.devpost.com/project-gallery
 ### BioHackathon
 
 ### KentHackIt
-- if you're seeing this, you have meningitis.
+
+I have no idea if this continued on.
 
 ### BathHacks
 
+Internal
+
 ### HackBelfast
 
-- lowkey won this so i have to include this. probably means i need to change this to uk-ie
+Won HRT's Best use of Data: https://devpost.com/software/bims

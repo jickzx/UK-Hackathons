@@ -183,7 +183,7 @@ No idea who won but it was an interesting one. food was nice though but paid qui
 
 ### SotonHack 26
 
-does this even work?
+made biome beats. its on devpost
 
 ### BirmingHack 26
 
@@ -205,3 +205,4 @@ Internal
 ### HackBelfast
 
 Won HRT's Best use of Data: https://devpost.com/software/bims
+nazzals telling me that if they hosted this hackathon earlier then i would've completed a spring week at hrt :(

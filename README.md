@@ -4,8 +4,7 @@ Also Displays Winners of UK University Hackathons from 2024 and onwards.
 Would be smarter to make a global university Hackathon tracker.
 
 A smart way of implementing a hackathon tracker is by making sure we can find their website and their linkedin profiles, maybe instagram too.
-the reason for this is because this says uk-hackathons yet only points to the uk university hackathons. as i am writing this, i have done 7 hackathons,
-technically won 4. in reality i've won 2, but the larp must stay on point. if i am not larping then who am i?
+the reason for this is because this says uk-hackathons yet only points to the uk university hackathons.
 
 ## Why do people win?
 
@@ -19,13 +18,10 @@ There are many reasons as to why people win. I will list my reasons below:
 - it is a product that can change peoples lives
 - it's a **creative** project you enjoyed making
 - Brainstorming correctly
-- Reading the devpost winners, seeing what they did and how you could implement it into your future projects.
 - READING THE DEVPOST PROJECT WINNERS. Maybe they've seen the project once, and then you're remaking it in the future, unintentionally? rip
 - You're one of the first few teams to be judged so that you don't run out of energy and you're lucky enough to actually have them at full steam.
-- you're really good at yapping and yapping proficiently
+- you're really good at yapping proficiently
 - it doesn’t have to be complete either, as long as you can pitch perfectly, demo perfectly and have a really good idea
-
-i wanna win more hackathons so hopefully i would've went to 20 hackathons by the end of 2nd year (if i have the time) <!-- if you're seeing this then im ngl i have this one teammate (lets call him y) that i go to hackathons with and i remember my other teammate winning in sotonhack for best meme prize and y sounded so pissed because that teammate won and not him (the prize was individual, not a team) and honestly i don't think i can work with people like him. so far i've been to a few hackathons with him but i feel like he just brings the team down simply because of his negativity and his toxicity. i cant accept that and i won't honestly -->
 
 ## What have I made?
 
